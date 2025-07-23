@@ -1,8 +1,8 @@
 <!--
-  👉 Hi there! I’m Santiago Araya (San‑190) 👋
+  Hi there! I’m Santiago Araya (San‑190)
 -->
 
-# 👋 Hi, I’m **Santiago Araya**
+# Hi, I’m **Santiago Araya**
 
 🌐 Aspiring Network & Full‑Stack Engineer | 3rd‑Year Information Systems Student  
 🚀 Passionate about learning, collaboration, and building reliable, scalable software & network solutions.
@@ -73,7 +73,7 @@ A boilerplate for deploying Flask web apps on Kubernetes with CI/CD via Azure Pi
 ---
 
 ### 2. Distributed Message Broker System (Mini‑Kafka)  
-🔗 [github.com/JarrenCV/Proyecto-1-SO](https://github.com/JarrenCV/Proyecto-1-SO)  
+🔗 [github.com/JarrenCV/Proyecto-1-SO](https://github.com/JarrenCV/BrokerDistribuidoMiniKafka)  
 **What it does:**  
 Implements a simplified, distributed messaging system inspired by Kafka. Producers & consumers communicate through a central broker.  
 **Tech:** C · TCP sockets · Threads · Mutexes · Semaphores
